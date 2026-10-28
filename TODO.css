@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+}
+
+input {
+    padding: 10px;
+    width: 250px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+    padding: 10px;
+    background-color: rgb(190, 186, 186);
+    width: 250px;
+   margin: 0 auto;
+    cursor: pointer;
+}
+
